@@ -8,7 +8,7 @@
 
 body {
     font-family: "Red Hat Text", sans-serif;
-    overflow: hidden;
+    overflow-x: hidden;
 }
 body.dark{
     background-color: #2A004E;
