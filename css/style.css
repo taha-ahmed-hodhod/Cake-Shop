@@ -1485,7 +1485,7 @@ footer .foot-box a:hover {
     .header .left {
         display: flex;
         list-style: none;
-        gap: 0 7px;
+        gap: 0 5px;
     }
 
     .header .right {
